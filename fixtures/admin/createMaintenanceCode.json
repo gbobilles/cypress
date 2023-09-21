@@ -1,0 +1,34 @@
+{
+  "workRequestReasonCode": {
+    "code": "W",
+    "description": "New work request reason code"
+  },
+  "failureCode": {
+    "code": "F",
+    "name": "New Failure Code",
+    "example": "Test Failure Code"
+  },
+  "positionCode": {
+    "description": "Test Position Code"
+  },
+  "systemCode": {
+    "description": "Test System Code"
+  },
+  "assemblyCode": {
+    "description": "Test Assembly Code"
+  },
+  "componentCode": {
+    "description": "Test Component Code"
+  },
+  "workAccomplishedCode": {
+    "name": "Work Accomplished Code",
+    "definition": "Test Work Accomplished Code"
+  },
+  "workReasonCode": {
+    "name": "Work Reason Code",
+    "workType": "Work Type"
+  },
+  "priorities": {
+    "priorityName": "Priority_"
+  }
+}

@@ -1,0 +1,26 @@
+<Collection>
+  <InteractiveListStepAssociations_x0020_9-3-2023_54924_x0020_PM>
+    <interactiveListStepAssociationId>142</interactiveListStepAssociationId>
+    <ordinal>1</ordinal>
+    <notes />
+    <interactiveListId>20</interactiveListId>
+    <interactiveList>
+      <interactiveListId>20</interactiveListId>
+      <interactiveListName>CheckList24407</interactiveListName>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <notes>CheckList2440784875</notes>
+      <editMetadata />
+    </interactiveList>
+    <stepId>56</stepId>
+    <step>
+      <stepId>56</stepId>
+      <stepName>406-Pressure test cooling system to mfg. specifications</stepName>
+      <description>Attach cooling system pressure tester. Pump up to where the relief valve releases (heater controls should be open). Leave under pressure for 5 to 10 minutes. Look for leaks, wear, cracking and distortion on hoses and tubing. Check hose clamps for tightness.</description>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <editMetadata />
+    </step>
+    <editMetadata />
+  </InteractiveListStepAssociations_x0020_9-3-2023_54924_x0020_PM>
+</Collection>

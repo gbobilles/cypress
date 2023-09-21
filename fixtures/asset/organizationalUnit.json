@@ -1,0 +1,82 @@
+{
+  "organizationalUnits": [
+    {
+      "name": "All",
+      "numberOfAssets": "43",
+      "fuelTypesUsed": [
+        {
+          "type": "Diesel - Highway Use",
+          "numberOfAssets": "26"
+        },
+        {
+          "type": "Gasoline",
+          "numberOfAssets": "5"
+        },
+        {
+          "type": "Not Specified",
+          "numberOfAssets": "12"
+        }
+      ]
+    },
+    {
+      "name": "Bus Lines Inc",
+      "numberOfAssets": "12",
+      "fuelTypesUsed": [
+        {
+          "type": "Diesel - Highway Use",
+          "numberOfAssets": "7"
+        },
+        {
+          "type": "Gasoline",
+          "numberOfAssets": "1"
+        },
+        {
+          "type": "Not Specified",
+          "numberOfAssets": "4"
+        }
+      ]
+    },
+    {
+      "name": "City of Anytown USA",
+      "numberOfAssets": "16",
+      "fuelTypesUsed": [
+        {
+          "type": "Diesel - Highway Use",
+          "numberOfAssets": "7"
+        },
+        {
+          "type": "Gasoline",
+          "numberOfAssets": "4"
+        },
+        {
+          "type": "Not Specified",
+          "numberOfAssets": "5"
+        }
+      ]
+    },
+    {
+      "name": "Super Waste Service",
+      "numberOfAssets": "9",
+      "fuelTypesUsed": [
+        {
+          "type": "Diesel - Highway Use",
+          "numberOfAssets": "9"
+        }
+      ]
+    },
+    {
+      "name": "Trucking Express",
+      "numberOfAssets": "6",
+      "fuelTypesUsed": [
+        {
+          "type": "Diesel - Highway Use",
+          "numberOfAssets": "3"
+        },
+        {
+          "type": "Not Specified",
+          "numberOfAssets": "3"
+        }
+      ]
+    }
+  ]
+}

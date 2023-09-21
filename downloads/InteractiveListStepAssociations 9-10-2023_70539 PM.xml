@@ -1,0 +1,26 @@
+<Collection>
+  <InteractiveListStepAssociations_x0020_9-10-2023_70539_x0020_PM>
+    <interactiveListStepAssociationId>133</interactiveListStepAssociationId>
+    <ordinal>1</ordinal>
+    <notes />
+    <interactiveListId>15</interactiveListId>
+    <interactiveList>
+      <interactiveListId>15</interactiveListId>
+      <interactiveListName>Checklist_90924</interactiveListName>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <notes>Checklist_9092474587</notes>
+      <editMetadata />
+    </interactiveList>
+    <stepId>8</stepId>
+    <step>
+      <stepId>8</stepId>
+      <stepName>108-Check air / vacuum Gauge</stepName>
+      <description>Look for proper reading and movement when building or releasing air</description>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <editMetadata />
+    </step>
+    <editMetadata />
+  </InteractiveListStepAssociations_x0020_9-10-2023_70539_x0020_PM>
+</Collection>

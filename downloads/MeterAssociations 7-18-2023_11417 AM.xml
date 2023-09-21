@@ -1,0 +1,254 @@
+<Collection>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>34</meterAssociationId>
+    <meterAssociationDescription>Miles</meterAssociationDescription>
+    <meterId>1</meterId>
+    <meter>
+      <meterId>1</meterId>
+      <meterName>Odometer</meterName>
+      <meterTypeMeasureId>11</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>450</dailyMaximum>
+    <tolerancePercentage>0.1</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>70</meterAssociationId>
+    <meterAssociationDescription />
+    <meterId>7</meterId>
+    <meter>
+      <meterId>7</meterId>
+      <meterName>Hours - Regression_99414</meterName>
+      <meterTypeMeasureId>2</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>20</dailyMaximum>
+    <tolerancePercentage>0</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>100</meterAssociationId>
+    <meterAssociationDescription />
+    <meterId>19</meterId>
+    <meter>
+      <meterId>19</meterId>
+      <meterName>Hours - Regression_78967</meterName>
+      <meterTypeMeasureId>2</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>20</dailyMaximum>
+    <tolerancePercentage>0</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>73</meterAssociationId>
+    <meterAssociationDescription />
+    <meterId>15</meterId>
+    <meter>
+      <meterId>15</meterId>
+      <meterName>Hours - Regression_77079</meterName>
+      <meterTypeMeasureId>2</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>20</dailyMaximum>
+    <tolerancePercentage>0</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>68</meterAssociationId>
+    <meterAssociationDescription />
+    <meterId>5</meterId>
+    <meter>
+      <meterId>5</meterId>
+      <meterName>Hours - Regression_73151</meterName>
+      <meterTypeMeasureId>2</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>20</dailyMaximum>
+    <tolerancePercentage>0</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>98</meterAssociationId>
+    <meterAssociationDescription />
+    <meterId>17</meterId>
+    <meter>
+      <meterId>17</meterId>
+      <meterName>Hours - Regression_26860</meterName>
+      <meterTypeMeasureId>2</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>20</dailyMaximum>
+    <tolerancePercentage>0</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+  <MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+    <meterAssociationId>103</meterAssociationId>
+    <meterAssociationDescription />
+    <meterId>22</meterId>
+    <meter>
+      <meterId>22</meterId>
+      <meterName>Hours - Regression_17313</meterName>
+      <meterTypeMeasureId>2</meterTypeMeasureId>
+      <meterTypeMeasure />
+      <templateId>4</templateId>
+      <template />
+      <meterMethodId>1</meterMethodId>
+      <meterMethod />
+      <editMetadata />
+    </meter>
+    <assetId>7</assetId>
+    <asset />
+    <dailyMaximum>20</dailyMaximum>
+    <tolerancePercentage>0</tolerancePercentage>
+    <requireReadingOnWorkOrder>false</requireReadingOnWorkOrder>
+    <requireReadingOnInspection>false</requireReadingOnInspection>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <fuelImportOffset>0</fuelImportOffset>
+    <editMetadata />
+  </MeterAssociations_x0020_7-18-2023_11417_x0020_AM>
+</Collection>

@@ -1,0 +1,69 @@
+{
+  "title": "AMCS Fleet Maintenance",
+  "subTitle": "AMCS Fleet Maintenance Version 7.0",
+  "items": [
+    {
+      "header": "Website:",
+      "value": "www.amcsgroup.com/solutions/fleet-maintenance",
+      "link": "www.amcsgroup.com/solutions/fleet-maintenance"
+    },
+    {
+      "header": "Support Phone:",
+      "value": "609-526-2820",
+      "link": "tel:609-526-2820"
+    },
+    {
+      "header": "Support E-mail:",
+      "value": "support@dossier.systems",
+      "link": "mailto:support@dossier.systems"
+    },
+    {
+      "header": "AMCS Fleet Maintenance User Guide:",
+      "value": "Open User Guide PDF",
+      "link": "javascript:void(0)"
+    },
+    {
+      "header": "API Documentation:",
+      "value": "Open AMCS Fleet Maintenance Web API Documentation",
+      "link": "javascript:void(0)"
+    },
+    {
+      "header": "Feedback",
+      "value": "FleetMaintenanceFeedback@AMCSGroup.com",
+      "link": "mailto:FleetMaintenanceFeedback@AMCSGroup.com"
+    },
+    {
+      "header": "Terms of Service",
+      "value": "Open PDF",
+      "link": "javascript:void(0)"
+    },
+    {
+      "header": "Privacy Policy:",
+      "value": "Open Privacy Policy",
+      "link": "javascript:void(0)"
+    }
+  ],
+  "socialMediaLinks": [
+    {
+      "link": "https://twitter.com/amcsgroup1",
+      "icon": "fa-twitter-square"
+    },
+    {
+      "link": "https://www.youtube.com/channel/UCMepq60A3aOV_lGwCCndLRA/videos",
+      "icon": "fa-youtube-square"
+    },
+    {
+      "link": "https://www.linkedin.com/company/amcs-group",
+      "icon": "fa-linkedin-square"
+    },
+    {
+      "link": "https://www.facebook.com/AMCS.Group",
+      "icon": "fa-facebook-square"
+    }
+  ],
+  "copyRight": "© 2023 AMCS Fleet Maintenance.",
+  "dossierUsersGroup": {
+    "header": "Dossier Users Group",
+    "value": "colleen.rees@dossier.systems"
+  }
+}

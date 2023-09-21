@@ -1,0 +1,427 @@
+<Collection>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>2</customIdentifierId>
+    <customIdentifierName>test34</customIdentifierName>
+    <entityId>1</entityId>
+    <entity>
+      <entityId>1</entityId>
+      <entityName>Dossier.AccountingAuthority</entityName>
+      <pluralName>AccountingAuthorities</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Accounting Authority</friendlyName>
+      <service>accounting</service>
+      <resource>accountingauthorities</resource>
+      <primaryKey>accountingAuthorityId</primaryKey>
+      <displayValue />
+      <createPermissionName>AuthorityTables-Create</createPermissionName>
+      <deletePermissionName>AuthorityTables-Delete</deletePermissionName>
+      <readPermissionName>AuthorityTables-Read</readPermissionName>
+      <updatePermissionName>AuthorityTables-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>1</customIdentifierId>
+    <customIdentifierName>Test A</customIdentifierName>
+    <entityId>67</entityId>
+    <entity>
+      <entityId>67</entityId>
+      <entityName>Dossier.FinancialTransactionDetailType</entityName>
+      <pluralName>FinancialTransactionDetailTypes</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Financial Transaction DetailType</friendlyName>
+      <service>accounting</service>
+      <resource>financialtransactiondetailtypes</resource>
+      <primaryKey>financialTransactionDetailTypeId</primaryKey>
+      <displayValue />
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>-4</customIdentifierId>
+    <customIdentifierName>Dossier Barcode</customIdentifierName>
+    <entityId>59</entityId>
+    <entity>
+      <entityId>59</entityId>
+      <entityName>Dossier.PartInventory</entityName>
+      <pluralName>PartInventories</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>true</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Part Inventory</friendlyName>
+      <service>inventory</service>
+      <resource>partinventories</resource>
+      <primaryKey>partInventoryId</primaryKey>
+      <displayValue />
+      <createPermissionName />
+      <deletePermissionName>InventoryObjects-Delete</deletePermissionName>
+      <readPermissionName>InventoryObjects-Read</readPermissionName>
+      <updatePermissionName>InventoryObjects-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>-3</customIdentifierId>
+    <customIdentifierName>Dossier Barcode</customIdentifierName>
+    <entityId>124</entityId>
+    <entity>
+      <entityId>124</entityId>
+      <entityName>Dossier.Part</entityName>
+      <pluralName>Parts</pluralName>
+      <isTemplated>true</isTemplated>
+      <customFieldsSupported>true</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Part</friendlyName>
+      <service>inventory</service>
+      <resource>parts</resource>
+      <primaryKey>partId</primaryKey>
+      <displayValue>["manufacturerIdentifier","description"]</displayValue>
+      <createPermissionName>Parts-Create</createPermissionName>
+      <deletePermissionName>Parts-Delete</deletePermissionName>
+      <readPermissionName>Parts-Read</readPermissionName>
+      <updatePermissionName>Parts-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>-2</customIdentifierId>
+    <customIdentifierName>Dossier Barcode</customIdentifierName>
+    <entityId>136</entityId>
+    <entity>
+      <entityId>136</entityId>
+      <entityName>Dossier.Asset</entityName>
+      <pluralName>Assets</pluralName>
+      <isTemplated>true</isTemplated>
+      <customFieldsSupported>true</customFieldsSupported>
+      <isQueryable>true</isQueryable>
+      <isCalendarSchedulable>true</isCalendarSchedulable>
+      <friendlyName>Asset</friendlyName>
+      <service>assets</service>
+      <resource>assets</resource>
+      <primaryKey>assetId</primaryKey>
+      <displayValue>["primaryAssetIdentifier","assetType.Type"]</displayValue>
+      <createPermissionName>AssetObjects-Create</createPermissionName>
+      <deletePermissionName>AssetObjects-Delete</deletePermissionName>
+      <readPermissionName>AssetObjects-Read</readPermissionName>
+      <updatePermissionName>AssetObjects-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>-1</customIdentifierId>
+    <customIdentifierName>Dossier Barcode</customIdentifierName>
+    <entityId>134</entityId>
+    <entity>
+      <entityId>134</entityId>
+      <entityName>Dossier.Person</entityName>
+      <pluralName>Personnel</pluralName>
+      <isTemplated>true</isTemplated>
+      <customFieldsSupported>true</customFieldsSupported>
+      <isQueryable>true</isQueryable>
+      <isCalendarSchedulable>true</isCalendarSchedulable>
+      <friendlyName>Person</friendlyName>
+      <service>personnel</service>
+      <resource>personnel</resource>
+      <primaryKey>personId</primaryKey>
+      <displayValue>["firstName","lastName"]</displayValue>
+      <createPermissionName>PersonObjects-Create</createPermissionName>
+      <deletePermissionName>PersonObjects-Delete</deletePermissionName>
+      <readPermissionName>PersonObjects-Read</readPermissionName>
+      <updatePermissionName>PersonObjects-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>10</customIdentifierId>
+    <customIdentifierName>CustomIdName_94298</customIdentifierName>
+    <entityId>36</entityId>
+    <entity>
+      <entityId>36</entityId>
+      <entityName>Dossier.VendorPart</entityName>
+      <pluralName>VendorParts</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>true</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Vendor Part</friendlyName>
+      <service>procurement</service>
+      <resource>vendorparts</resource>
+      <primaryKey>vendorPartId</primaryKey>
+      <displayValue />
+      <createPermissionName>VendorObjects-Update</createPermissionName>
+      <deletePermissionName>VendorObjects-Update</deletePermissionName>
+      <readPermissionName>VendorObjects-Read</readPermissionName>
+      <updatePermissionName>VendorObjects-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>7</customIdentifierId>
+    <customIdentifierName>CustomIdName_92337</customIdentifierName>
+    <entityId>302</entityId>
+    <entity>
+      <entityId>302</entityId>
+      <entityName>Dossier.WorkRequestWithTotalCost</entityName>
+      <pluralName>WorkRequestWithTotalCost</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Work Request With Total Cost</friendlyName>
+      <service>maintenance</service>
+      <resource>workrequestwithtotalcosts</resource>
+      <primaryKey>WorkRequestId</primaryKey>
+      <displayValue />
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>11</customIdentifierId>
+    <customIdentifierName>CustomIdName_91924</customIdentifierName>
+    <entityId>109</entityId>
+    <entity>
+      <entityId>109</entityId>
+      <entityName>Dossier.NotificationConfiguration</entityName>
+      <pluralName>NotificationConfigurations</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>true</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Notification Configuration</friendlyName>
+      <service>notifications</service>
+      <resource>notificationconfigurations</resource>
+      <primaryKey>notificationConfigurationId</primaryKey>
+      <displayValue>["subject"]</displayValue>
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>13</customIdentifierId>
+    <customIdentifierName>CustomIdName_75657</customIdentifierName>
+    <entityId>150</entityId>
+    <entity>
+      <entityId>150</entityId>
+      <entityName>Dossier.Status</entityName>
+      <pluralName>Statuses</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Status</friendlyName>
+      <service>statuses</service>
+      <resource>statuses</resource>
+      <primaryKey>statusId</primaryKey>
+      <displayValue>["name"]</displayValue>
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>9</customIdentifierId>
+    <customIdentifierName>CustomIdName_66727</customIdentifierName>
+    <entityId>306</entityId>
+    <entity>
+      <entityId>306</entityId>
+      <entityName>Dossier.InspectionStep</entityName>
+      <pluralName>InspectionSteps</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Inspection Step</friendlyName>
+      <service>maintenance</service>
+      <resource>inspectionsteps</resource>
+      <primaryKey>inspectionStepId</primaryKey>
+      <displayValue />
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>12</customIdentifierId>
+    <customIdentifierName>CustomIdName_52916</customIdentifierName>
+    <entityId>1000002</entityId>
+    <entity>
+      <entityId>1000002</entityId>
+      <entityName>Audit.EventDetail</entityName>
+      <pluralName>EventDetails</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>EventDetail</friendlyName>
+      <service>audit</service>
+      <resource>eventdetails</resource>
+      <primaryKey>eventDetailId</primaryKey>
+      <displayValue />
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>6</customIdentifierId>
+    <customIdentifierName>CustomIdName_46688</customIdentifierName>
+    <entityId>81</entityId>
+    <entity>
+      <entityId>81</entityId>
+      <entityName>Dossier.WarrantyType</entityName>
+      <pluralName>WarrantyTypes</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Warranty Type</friendlyName>
+      <service>maintenance</service>
+      <resource>warrantytypes</resource>
+      <primaryKey>warrantyTypeId</primaryKey>
+      <displayValue>["name"]</displayValue>
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>5</customIdentifierId>
+    <customIdentifierName>CustomIdName_42882</customIdentifierName>
+    <entityId>9</entityId>
+    <entity>
+      <entityId>9</entityId>
+      <entityName>Dossier.CustomIdentifier</entityName>
+      <pluralName>CustomIdentifiers</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Custom Identifier</friendlyName>
+      <service>entities</service>
+      <resource>customidentifiers</resource>
+      <primaryKey>customIdentifierId</primaryKey>
+      <displayValue>["customIdentifierName"]</displayValue>
+      <createPermissionName>CodeTables-Create</createPermissionName>
+      <deletePermissionName>CodeTables-Delete</deletePermissionName>
+      <readPermissionName />
+      <updatePermissionName>CodeTables-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>8</customIdentifierId>
+    <customIdentifierName>CustomIdName_11183</customIdentifierName>
+    <entityId>138</entityId>
+    <entity>
+      <entityId>138</entityId>
+      <entityName>Dossier.Manufacturer</entityName>
+      <pluralName>Manufacturers</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>true</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Manufacturer</friendlyName>
+      <service>inventory</service>
+      <resource>manufacturers</resource>
+      <primaryKey>manufacturerId</primaryKey>
+      <displayValue>["name"]</displayValue>
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>3</customIdentifierId>
+    <customIdentifierName>Checklist_90686</customIdentifierName>
+    <entityId>161</entityId>
+    <entity>
+      <entityId>161</entityId>
+      <entityName>Dossier.Country</entityName>
+      <pluralName>Countries</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Country</friendlyName>
+      <service>locations</service>
+      <resource>countries</resource>
+      <primaryKey>countryId</primaryKey>
+      <displayValue>["countryName"]</displayValue>
+      <createPermissionName />
+      <deletePermissionName />
+      <readPermissionName />
+      <updatePermissionName />
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+  <s_x0020_9-6-2023_40348_x0020_AM>
+    <customIdentifierId>4</customIdentifierId>
+    <customIdentifierName>Checklist_31148</customIdentifierName>
+    <entityId>68</entityId>
+    <entity>
+      <entityId>68</entityId>
+      <entityName>Dossier.FinancialTransactionHeader</entityName>
+      <pluralName>FinancialTransactionHeaders</pluralName>
+      <isTemplated>false</isTemplated>
+      <customFieldsSupported>false</customFieldsSupported>
+      <isQueryable>false</isQueryable>
+      <isCalendarSchedulable>false</isCalendarSchedulable>
+      <friendlyName>Financial Transaction Header</friendlyName>
+      <service>accounting</service>
+      <resource>financialtransactionheaders</resource>
+      <primaryKey>financialTransactionHeaderId</primaryKey>
+      <displayValue />
+      <createPermissionName>FinancialTransactions-Create</createPermissionName>
+      <deletePermissionName>FinancialTransactions-Delete</deletePermissionName>
+      <readPermissionName>FinancialTransactions-Read</readPermissionName>
+      <updatePermissionName>FinancialTransactions-Update</updatePermissionName>
+      <editMetadata />
+    </entity>
+    <editMetadata />
+  </s_x0020_9-6-2023_40348_x0020_AM>
+</Collection>

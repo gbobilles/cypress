@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "assetId": "101",
+      "assetType": "Class 8 Tractor",
+      "site": "Jacksonville FL Shop",
+      "status": "Active",
+      "disposition": "In Service",
+      "acquisitionCost": "$110,000.00",
+      "acquisitionDate": "8/10/2015",
+      "dateInService": "8/10/2015",
+      "dateOutOfService": "",
+      "licensePlate": "729LWZ",
+      "country": "United States",
+      "stateProvinceTerritory": "Florida",
+      "manufacturedProductionYear": "2015",
+      "modelYear": "2015",
+      "vin": "4V4NC9EH6FN931036"
+    },
+    {
+      "assetId": "102",
+      "assetType": "Class 8 Tractor",
+      "site": "Jacksonville FL Shop",
+      "status": "Active",
+      "disposition": "In Service",
+      "acquisitionCost": "$107,000.00",
+      "acquisitionDate": "8/8/2018",
+      "dateInService": "8/8/2018",
+      "dateOutOfService": "",
+      "licensePlate": "730LWZ",
+      "country": "United States",
+      "stateProvinceTerritory": "Florida",
+      "manufacturedProductionYear": "2018",
+      "modelYear": "2018",
+      "vin": "4V4NC9EH2JN895144"
+    },
+    {
+      "assetId": "103",
+      "assetType": "Class 8 Tractor",
+      "site": "Jacksonville FL Shop",
+      "status": "Active",
+      "disposition": "In Service",
+      "acquisitionCost": "$104,750.00",
+      "acquisitionDate": "8/8/2018",
+      "dateInService": "8/8/2018",
+      "dateOutOfService": "",
+      "licensePlate": "731LWZ",
+      "country": "United States",
+      "stateProvinceTerritory": "Florida",
+      "manufacturedProductionYear": "2018",
+      "modelYear": "2018",
+      "vin": "3HCDZAPR2KL610511"
+    }
+  ]
+}

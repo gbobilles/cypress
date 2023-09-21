@@ -1,0 +1,7 @@
+{
+  "description": "External labor",
+  "hours": 3,
+  "cost": 100,
+  "tax": 25,
+  "workDescription": "New external labor"
+}

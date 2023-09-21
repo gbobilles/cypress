@@ -1,0 +1,26 @@
+<Collection>
+  <InteractiveListStepAssociations_x0020_9-10-2023_63053_x0020_PM>
+    <interactiveListStepAssociationId>131</interactiveListStepAssociationId>
+    <ordinal>1</ordinal>
+    <notes />
+    <interactiveListId>13</interactiveListId>
+    <interactiveList>
+      <interactiveListId>13</interactiveListId>
+      <interactiveListName>Checklist_16775</interactiveListName>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <notes>Checklist_1677558941</notes>
+      <editMetadata />
+    </interactiveList>
+    <stepId>18</stepId>
+    <step>
+      <stepId>18</stepId>
+      <stepName>118-Inspect all “add-on” devices</stepName>
+      <description>Confirm wiring is secure, mounting is secure</description>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <editMetadata />
+    </step>
+    <editMetadata />
+  </InteractiveListStepAssociations_x0020_9-10-2023_63053_x0020_PM>
+</Collection>

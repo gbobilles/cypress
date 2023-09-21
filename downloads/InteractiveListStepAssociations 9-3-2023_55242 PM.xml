@@ -1,0 +1,27 @@
+<Collection>
+  <InteractiveListStepAssociations_x0020_9-3-2023_55242_x0020_PM>
+    <interactiveListStepAssociationId>143</interactiveListStepAssociationId>
+    <ordinal>1</ordinal>
+    <notes />
+    <interactiveListId>21</interactiveListId>
+    <interactiveList>
+      <interactiveListId>21</interactiveListId>
+      <interactiveListName>CheckList88004</interactiveListName>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <notes>CheckList8800482519</notes>
+      <editMetadata />
+    </interactiveList>
+    <stepId>77</stepId>
+    <step>
+      <stepId>77</stepId>
+      <stepName>501-Inspect steering gear and mounting</stepName>
+      <description>Check steering gear for leakage around the seal areas and hydraulic fittings. Inspect frame to gear, or frame to bracket to gear fasteners for signs of looseness or cracks.
+o	NOTE: Hand grease input bearing on steering gear do not use high pressure grease gun.</description>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <editMetadata />
+    </step>
+    <editMetadata />
+  </InteractiveListStepAssociations_x0020_9-3-2023_55242_x0020_PM>
+</Collection>

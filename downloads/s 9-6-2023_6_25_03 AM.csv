@@ -1,0 +1,20 @@
+Name,Entity
+test34,Accounting Authority
+Test A,Financial Transaction DetailType
+Dossier Barcode,Part Inventory
+Dossier Barcode,Part
+Dossier Barcode,Asset
+Dossier Barcode,Person
+CustomIdName_94298,Vendor Part
+CustomIdName_92337,Work Request With Total Cost
+CustomIdName_91924,Notification Configuration
+CustomIdName_75657,Status
+CustomIdName_66727,Inspection Step
+CustomIdName_57146,EventDetailType
+CustomIdName_55511,PM Interval Association
+CustomIdName_52916,EventDetail
+CustomIdName_46688,Warranty Type
+CustomIdName_42882,Custom Identifier
+CustomIdName_11183,Manufacturer
+Checklist_90686,Country
+Checklist_31148,Financial Transaction Header

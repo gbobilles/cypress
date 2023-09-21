@@ -1,0 +1,20 @@
+export enum MaintenanceCode {
+  MAINTENANCE_CODES = 'Maintenance Codes',
+  WORK_REQUEST_REASON_CODES = 'Work Request Reason Codes',
+  WORK_REQUEST_REASON_CODE = 'Work Request Reason Code',
+  FAILURE_CODES = 'Failure Codes',
+  FAILURE_CODE = 'Failure Code',
+  POSITION_CODES = 'Position Codes',
+  POSITION_CODE = 'Position Code',
+  SYSTEM_CODES = 'System Codes',
+  SYSTEM_CODE = 'System Code',
+  ASSEMBLY_CODES = 'Assembly Codes',
+  ASSEMBLY_CODE = 'Assembly Code',
+  COMPONENT_CODES = 'Component Codes',
+  COMPONENT_CODE = 'Component Code',
+  WORK_ACCOMPLISHED_CODES = 'Work Accomplished Codes',
+  WORK_ACCOMPLISHED_CODE = 'Work Accomplished Code',
+  WORK_REASON_CODES = 'Work Reason Codes',
+  WORK_REASON_CODE = 'Work Reason Code',
+  PRIORITIES = 'Priorities'
+}

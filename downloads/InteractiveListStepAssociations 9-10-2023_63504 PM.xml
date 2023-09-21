@@ -1,0 +1,26 @@
+<Collection>
+  <InteractiveListStepAssociations_x0020_9-10-2023_63504_x0020_PM>
+    <interactiveListStepAssociationId>132</interactiveListStepAssociationId>
+    <ordinal>1</ordinal>
+    <notes />
+    <interactiveListId>14</interactiveListId>
+    <interactiveList>
+      <interactiveListId>14</interactiveListId>
+      <interactiveListName>Checklist_58286</interactiveListName>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <notes>Checklist_5828689382</notes>
+      <editMetadata />
+    </interactiveList>
+    <stepId>22</stepId>
+    <step>
+      <stepId>22</stepId>
+      <stepName>124-Check Low Air Pressure Warning Lamp &amp; Alarm</stepName>
+      <description>Pump the brake pedal while observing the air gauges. As the air pressure is lowering, verify the compressor governor cut-in pressure. Check that both indicator lights operate and the warning buzzer sounds.</description>
+      <interactiveListTypeId>1</interactiveListTypeId>
+      <interactiveListType />
+      <editMetadata />
+    </step>
+    <editMetadata />
+  </InteractiveListStepAssociations_x0020_9-10-2023_63504_x0020_PM>
+</Collection>

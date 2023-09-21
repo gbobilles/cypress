@@ -1,0 +1,30 @@
+<Collection>
+  <CampaignStandardRepairs_x0020_8-27-2023_103846_x0020_PM>
+    <campaignStandardRepairId>2</campaignStandardRepairId>
+    <campaignId>6</campaignId>
+    <campaign />
+    <standardRepairId>4</standardRepairId>
+    <standardRepair>
+      <standardRepairId>4</standardRepairId>
+      <standardRepairIdentifier>A-PM Class 7&amp;8</standardRepairIdentifier>
+      <componentCodeId>32282</componentCodeId>
+      <componentCode />
+      <workReasonId>30</workReasonId>
+      <workReason />
+      <workAccomplishedCodeId>22</workAccomplishedCodeId>
+      <workAccomplishedCode />
+      <interactiveListId>2</interactiveListId>
+      <interactiveList />
+      <templateId>9</templateId>
+      <template />
+      <oemRepairTime>0</oemRepairTime>
+      <thirdPartyPublisherRepairTime>0</thirdPartyPublisherRepairTime>
+      <averageRepairTime>0</averageRepairTime>
+      <companyRepairTime>0</companyRepairTime>
+      <dispositionId>1</dispositionId>
+      <disposition />
+      <editMetadata />
+    </standardRepair>
+    <editMetadata />
+  </CampaignStandardRepairs_x0020_8-27-2023_103846_x0020_PM>
+</Collection>

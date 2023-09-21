@@ -1,0 +1,314 @@
+<Collection>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>6</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>6/1/2025</expirationDate>
+    <issueDate>6/29/2023</issueDate>
+    <identifier>Permit_99640</identifier>
+    <permitTypeId>2</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>2</permitTypeId>
+      <name>Overweight</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-57</regionId>
+    <region>
+      <regionId>-57</regionId>
+      <regionName>West Virginia</regionName>
+      <countryId>1</countryId>
+      <country>
+        <countryId>1</countryId>
+        <countryName>United States</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>7</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>7/1/2025</expirationDate>
+    <issueDate>7/11/2023</issueDate>
+    <identifier>Permit_96908</identifier>
+    <permitTypeId>4</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>4</permitTypeId>
+      <name>Registration</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-61</regionId>
+    <region>
+      <regionId>-61</regionId>
+      <regionName>British Columbia</regionName>
+      <countryId>2</countryId>
+      <country>
+        <countryId>2</countryId>
+        <countryName>Canada</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>9</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>7/1/2025</expirationDate>
+    <issueDate>7/17/2023</issueDate>
+    <identifier>Permit_73315</identifier>
+    <permitTypeId>3</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>3</permitTypeId>
+      <name>Oversize</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-93</regionId>
+    <region>
+      <regionId>-93</regionId>
+      <regionName>Puebla</regionName>
+      <countryId>3</countryId>
+      <country>
+        <countryId>3</countryId>
+        <countryName>Mexico</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>10</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>7/1/2025</expirationDate>
+    <issueDate>7/18/2023</issueDate>
+    <identifier>Permit_65546</identifier>
+    <permitTypeId>4</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>4</permitTypeId>
+      <name>Registration</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-49</regionId>
+    <region>
+      <regionId>-49</regionId>
+      <regionName>South Dakota</regionName>
+      <countryId>1</countryId>
+      <country>
+        <countryId>1</countryId>
+        <countryName>United States</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>4</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>6/1/2024</expirationDate>
+    <issueDate>6/29/2023</issueDate>
+    <identifier>Permit_62164</identifier>
+    <permitTypeId>2</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>2</permitTypeId>
+      <name>Overweight</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-9</regionId>
+    <region>
+      <regionId>-9</regionId>
+      <regionName>Connecticut</regionName>
+      <countryId>1</countryId>
+      <country>
+        <countryId>1</countryId>
+        <countryName>United States</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>8</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>7/1/2025</expirationDate>
+    <issueDate>7/14/2023</issueDate>
+    <identifier>Permit_36986</identifier>
+    <permitTypeId>2</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>2</permitTypeId>
+      <name>Overweight</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-64</regionId>
+    <region>
+      <regionId>-64</regionId>
+      <regionName>Newfoundland and Labrador</regionName>
+      <countryId>2</countryId>
+      <country>
+        <countryId>2</countryId>
+        <countryName>Canada</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>5</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>6/1/2025</expirationDate>
+    <issueDate>6/29/2023</issueDate>
+    <identifier>Permit_19300</identifier>
+    <permitTypeId>4</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>4</permitTypeId>
+      <name>Registration</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-54</regionId>
+    <region>
+      <regionId>-54</regionId>
+      <regionName>Virgin Islands</regionName>
+      <countryId>1</countryId>
+      <country>
+        <countryId>1</countryId>
+        <countryName>United States</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+  <Permits_x0020_7-18-2023_11146_x0020_AM>
+    <permitId>2</permitId>
+    <assetId>7</assetId>
+    <asset />
+    <expirationDate>12/31/2022</expirationDate>
+    <issueDate>1/1/2022</issueDate>
+    <identifier>111000111</identifier>
+    <permitTypeId>4</permitTypeId>
+    <dispositionId>1</dispositionId>
+    <disposition>
+      <dispositionId>1</dispositionId>
+      <dispositionName>Active</dispositionName>
+      <statusId>1</statusId>
+      <status>
+        <statusId>1</statusId>
+        <name>Active</name>
+        <editMetadata />
+      </status>
+      <editMetadata />
+    </disposition>
+    <permitType>
+      <permitTypeId>4</permitTypeId>
+      <name>Registration</name>
+      <editMetadata />
+    </permitType>
+    <regionId>-24</regionId>
+    <region>
+      <regionId>-24</regionId>
+      <regionName>Maine</regionName>
+      <countryId>1</countryId>
+      <country>
+        <countryId>1</countryId>
+        <countryName>United States</countryName>
+        <editMetadata />
+      </country>
+      <editMetadata />
+    </region>
+    <editMetadata />
+  </Permits_x0020_7-18-2023_11146_x0020_AM>
+</Collection>

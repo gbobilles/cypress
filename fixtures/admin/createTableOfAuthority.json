@@ -1,0 +1,8 @@
+{
+  "accountingAuthorityGroupName": "ACC_",
+  "dailyLimit": 30000,
+  "monthlyLimit": 70000,
+  "purchaseOrderLimit": 20000,
+  "internalWorkLimit": 15000,
+  "blanketPurchaseOrderLimit": 20000
+}
